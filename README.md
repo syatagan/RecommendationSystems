@@ -4,5 +4,6 @@ The company, which is an online service platform, connects service providers wit
 We want to create a product recommendation system using Association Rule Learning based on a dataset that includes service users and the services and categories they have received.
 <br/>
 **Dataset Story**
+<br/>
 The dataset consists of customers' received services and the categories of these services. It also includes the date and time information for each service received.
 
