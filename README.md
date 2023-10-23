@@ -1,7 +1,6 @@
-# Association Rule Based Recommender System
+Business Problem
+The company, which is an online service platform, connects service providers with those seeking services. It enables easy access to services such as cleaning, renovation, and transportation with just a few taps on your computer or smartphone.
+We want to create a product recommendation system using Association Rule Learning based on a dataset that includes service users and the services and categories they have received.
+Dataset Story
+The dataset consists of customers' received services and the categories of these services. It also includes the date and time information for each service received.
 
-Online hizmet platformu olan Şirket, hizmet verenler ile hizmet almak isteyenleri buluşturmaktadır.
-Bilgisayarın veya akıllı telefonunun üzerinden birkaç dokunuşla temizlik, tadilat, nakliyat gibi hizmetlere kolayca
-ulaşılmasını sağlamaktadır.
-Hizmet alan kullanıcıları ve bu kullanıcıların almış oldukları servis ve kategorileri içeren veri setini kullanarak Association
-Rule Learning ile ürün tavsiye sistemi oluşturulmak istenmektedir.
